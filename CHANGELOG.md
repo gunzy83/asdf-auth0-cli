@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/gunzy83/asdf-auth0-cli/compare/v1.0.1...v1.0.2) (2025-10-09)
+
+
+### Bug Fixes
+
+* add workarounds to build workflow for bugs in upstream ([#13](https://github.com/gunzy83/asdf-auth0-cli/issues/13)) ([c5aaafc](https://github.com/gunzy83/asdf-auth0-cli/commit/c5aaafc0a6560da8803824a26f7501453f09da2f))
+
 ## [1.0.1](https://github.com/gunzy83/asdf-auth0-cli/compare/v1.0.0...v1.0.1) (2024-04-14)
 
 
